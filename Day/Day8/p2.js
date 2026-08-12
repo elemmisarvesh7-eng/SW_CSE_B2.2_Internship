@@ -12,7 +12,7 @@ if (true) {
 console.log(message);
 
 // 2 let 
-let name = "Sarvesh";
+let name = "Rakesh";
 // let name = "Rakesh"; //not allowed to redeclare with the same name
 name = "Sumanth" //reassign is possible
 console.log(name)
