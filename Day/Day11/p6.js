@@ -20,7 +20,7 @@ const promise = new Promise(function(resolve,reject){
     if (success) {
         resolve("Data Loaded");
         console.log("Promise Resolved");
-    }
+    } 
     else{
         console.log("Promise Rejected");
         reject(new Error("Failed to load"));
