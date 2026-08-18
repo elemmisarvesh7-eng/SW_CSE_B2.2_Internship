@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
         <Welcome />
-        <Greet />
+        <Greet  />
         <MyMovies />
     </div>
   );
