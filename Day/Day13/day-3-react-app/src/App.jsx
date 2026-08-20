@@ -16,7 +16,7 @@ function App() {
 
       <Counter />
 
-      <Welcome name="Rakesh" />
+      <Welcome name="Sarvesh" />
 
       <ButtonDemo />
 
